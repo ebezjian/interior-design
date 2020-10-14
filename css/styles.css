@@ -4,10 +4,17 @@
   float: left;
 }
 
-.left {
+.column {
+  width: 30%;
   float: left;
 }
 
-.right {
-  float: right;
+img {
+  float: left;
+  height: 40%;
+  width: 40%;
+}
+
+.fix {
+  text-align: center;
 }
