@@ -1,5 +1,13 @@
 .sidebar {
   background-color: tan;
   width: 30%;
+  float: left;
+}
+
+.left {
+  float: left;
+}
+
+.right {
   float: right;
 }
